@@ -1,0 +1,13 @@
+C:\Users\İREM FATMA\Source\Repos\PluginWin\bin\Debug\PluginWin.exe.config
+C:\Users\İREM FATMA\Source\Repos\PluginWin\bin\Debug\PluginWin.exe
+C:\Users\İREM FATMA\Source\Repos\PluginWin\bin\Debug\PluginWin.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.csproj.AssemblyReference.cache
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.Form1.resources
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.Properties.Resources.resources
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.csproj.GenerateResource.cache
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.csproj.CoreCompileInputs.cache
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.exe
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginWin\bin\Debug\SDK.dll
+C:\Users\İREM FATMA\Source\Repos\PluginWin\bin\Debug\SDK.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginWin\obj\Debug\PluginWin.csproj.CopyComplete

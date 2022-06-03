@@ -1,0 +1,8 @@
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\bin\Debug\PluginSecond.dll
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\bin\Debug\PluginSecond.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\bin\Debug\SDK.dll
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\bin\Debug\SDK.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\obj\Debug\PluginSecond.csproj.CoreCompileInputs.cache
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\obj\Debug\PluginSecond.csproj.CopyComplete
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\obj\Debug\PluginSecond.dll
+C:\Users\İREM FATMA\Source\Repos\PluginSecond\obj\Debug\PluginSecond.pdb

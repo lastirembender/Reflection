@@ -1,0 +1,9 @@
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\bin\Debug\PluginFirst.dll
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\bin\Debug\PluginFirst.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\bin\Debug\SDK.dll
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\bin\Debug\SDK.pdb
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\obj\Debug\PluginFirst.csproj.AssemblyReference.cache
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\obj\Debug\PluginFirst.csproj.CoreCompileInputs.cache
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\obj\Debug\PluginFirst.csproj.CopyComplete
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\obj\Debug\PluginFirst.dll
+C:\Users\İREM FATMA\Source\Repos\PluginFirst\obj\Debug\PluginFirst.pdb
