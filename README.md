@@ -4,12 +4,7 @@
 
 C# dili ve .Net Framework kullanılarak oluşturulan Reflection uygulaması.
 
-
-
     
-## Yazarlar 
-
-- [@lastirembender](https://github.com/lastirembender) 
 
   
 ## Kullanılan Teknolojiler
@@ -25,3 +20,6 @@ C# dili ve .Net Framework kullanılarak oluşturulan Reflection uygulaması.
 ![PLUGINS](https://user-images.githubusercontent.com/69118634/171848011-e3a6d4ea-ff48-4e58-8663-5d89dcc8d9a6.JPG)
 
   
+## Yazarlar 
+
+- [@lastirembender](https://github.com/lastirembender) 
